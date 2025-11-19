@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Variables
-DB_NAME="myDB"
+DB_NAME="myData"
 BUCKET_NAME="<bucket_name>" # Replace with your S3 bucket name
 BACKUP_DIR="/tmp/mongo_backups"
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")

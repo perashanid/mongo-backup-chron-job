@@ -9,7 +9,7 @@
     chmod 700 mongodb-installer.sh
 ### Run the file to create database and collection
 
-    ./setup_mongo.sh
+    ./mongodb-installer.sh
 
 ### Install AWS CLI
 
